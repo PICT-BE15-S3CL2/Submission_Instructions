@@ -1,0 +1,40 @@
+Please refer this document periodically until you are done with your submission of CL-II.
+Instructions for CL-II Submission:
+You need to submit assignments in LATEX format. Following things must be present in each assignment.
+Title:
+Aim:
+Learning Objectives
+Learning Outcomes
+s/w and h/w requirements
+references
+Prerequisites:
+Theory:
+Description of Toolkit and how you used it, e.g NLTk, if used
+Mathematical Model
+Data Flow diagram/ Flowchart
+Algorithm
+Time & Space complexity analysis of above stated algorithm
+Are there any alternative approaches to speed up the solution to problem? e.g Div & Con, concurrent solution etc. If yes, state the better solution here along with time & space complexity analysis. If no, state precise reasons for absence of speed-up
+Software Engineering Diagrams (State Dig, Class dig, etc)
+Atleast 2 Case Studies/ Test Cases (You may consider different outputs of your code if you provide different inputs)
+Instructions for execution on multi-core (e.g Taskset)
+Time & Space complexity analysis of your implementation of algorithm written in point l
+Conclusion
+
+
+You must know how to execute each assignment & what is input, output and algorithm of each assignment.
+Copying may go against you in terms of rewriting the entire journal. Minor changes, whenever suggested, will be communicated to you.
+You need to form  groups of 3 or 4 students among your batch to solve following assignments. These are to be written on assignment papers (Not on Answer sheets given to you by Professors). Keep this ready before your actual submissions. Please submit it to your lab teacher. You may form groups according to your electives and solve those assignments. Assignments must not be repeated in a batch.
+1. Study of any 2 Open Source Data Mining Tools. Carry out survey, write uses in different areas, applications related to tools. Give details of tools in terms of required configuration to use it, any special requirements if needed.
+2.Create and demonstrate (Slides or ppts or infographics) of any two open source data mining tools.
+3. Complexity Analysis, Performance measures of Naive Bayes theorem. Give complete details with respective examples of the same.
+4. Complexity Analysis, Performance measures of BFS/DFS. Give complete details with respective examples of the same.
+5. Compare performance analysis of Nearest Neighbor technique on serial as well as multi-core machine. How to improve performance of NN with parallel programming?
+6. Write down real life problem solving by using NLTK toolkit. Take up one example to explain it thoroughly.
+7. Write down real life problem solving by using Pervasive Computing tool kits/ tools (Open source). Take up one example to explain it thoroughly.
+
+Tomorrow, Keep hand written copy of these assignments ready. Also, Follow the instructions to create the journal in LATEX Format. Keep ready soft-copy of LATEX. Don’t take print out of LATEX write-ups. 
+
+Also convey this message to all BE students.
+
+All the best.....
